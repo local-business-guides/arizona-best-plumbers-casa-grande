@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/arizona-best-plumbers-casa-grande/sitemap.xml
